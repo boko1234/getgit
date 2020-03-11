@@ -12,13 +12,13 @@ shift + ins   粘贴
 
 
 ```
-git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+git clone git@github.com:代码仓库
 ```
 
 
 
 ```
-git clone git@github.com:mchome/flutter_statusbarcolor
+git clone git@github.com:a/b.git
 ```
 
 以此类推
@@ -66,7 +66,6 @@ ssh-keygen -t rsa -C "个人邮箱地址"
 
 
 
-git@github.com:boko1234/study-golang.git
 ```
 
 
